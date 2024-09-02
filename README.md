@@ -1,4 +1,4 @@
-# Cyber-security
+# Cyber Security
 
 ## Arten von Cyber Security
 - Umfang verschiedener Bereiche
@@ -58,16 +58,30 @@
 
 ### Malware und Methoden
 
+| Malware _malicious software_ | Bechreibung |
+| - | - |
+| Virus | selbst replizierend, vebreitet sich und infiziert Dateien mit schädlichem Code |
+| Trojaner | Tarnung als vertrauenswürdige Software, Datensammlung |   
+| Spyware | prokolliert Eingaben des Nutzers |
+| Ransomware | blockiert Dateien und Daten eines Nutzers |
+| Adware | Verbreitung von Schadsoftware über Werbesoftware |
+| Botnets | Computernetzwerke befallen mit Schadsoftware, werden genutzt um Online-Aufgaben ohne Einvertsändnis des Nutzers auszuführen |
 
+| Weitere Methoden | Beschreibung |
+| - | - |
+| Phishing | E-Mail, Text- oder Sprachnachrichten verleiten zum Download von Malware, Ausgabe von vertraulicher Daten oder Geldtransaktionen |
+| SQL Injection | Kontrolle über Daten aus Datenbank erhalten, über speziellen SQL-Befehl wird Schadcode in Datenbank eingefügt | 
+| Man-in-the-Middle-Angriff | Abfangen von Informationen zwischen zwei Beteiligten, Bspw. über ungesichertes W-LAN Netz |
+| Distributed-Denial-of-Service (DDoS) Angriff | Überschwemmung mit Datenverkehr, sodass System handlungsunfähig wird |
+| Romance-Scamming | Vorgeben von Partnersuche, Preisgabe persönlicher Daten oder finanzieller Mittel |
+| Kryptojacking | Zugriff auf Endgerät zur Nutzung von Rechenleistung, um Kryptowährung zu schürfen |
+| Kompromittierung von geschäftlichen E-Mails (BEC) | Vortäuschung (oft über E-Mail) eine vertraute Person zu sein: Chef, Mitarbeiter, Lieferanten oder Geschäftspartner |
+| Kompromittierung von E-Mail-Konten (EAC) | Ähnlich BEC, doch hier wird das Konto wirklich übernommen und gesteuert |
 
-
-
-
-
-
-
-
-- allgemein (Cloud, Remote Arbeit, IoT, KI)
+### Endbenutzer
+- Einzelpersonen werden angegriffen
+- Durch Unwissenheit Malware oder andere Cyberbedrohungen auf Geräte laden
+- Besonders Nutzer mit vielen Zugriffsrechten gefährdet
 
 ---
 ## Best Practices / Tools / Technologien
@@ -79,3 +93,4 @@
 Quellen:
 [ibm.com](https://www.ibm.com/de-de/topics/cybersecurity)
 [kasperky.de](https://www.kaspersky.de/resource-center/definitions/what-is-cyber-security)
+[proofpoint.com](https://www.proofpoint.com/de/threat-reference/cybersecurity-network-security)
