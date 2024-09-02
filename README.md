@@ -135,7 +135,7 @@
 
 #### Allgemein
 - Zunahme von Cloud Computing
-    - Komplexität Netzwerkverwaltung und Risiko Fehlkonfiguation
+    - Komplexität der Netzwerkverwaltung und Risiko von Fehlkonfiguration
     - Unzureichende Sicherung und Schwachstellen
 - Steigende Zahl von Remote- & Hybridarbeit, sowie _Bring-your-own-Device_ Richtlinien
     - Unternehmen müssen mehr Verbindungen und Geräte sichern
@@ -172,7 +172,7 @@
 
 | Malware _malicious software_ | Bechreibung |
 | - | - |
-| Virus | selbst replizierend, vebreitet sich und infiziert Dateien mit schädlichem Code |
+| Viren | selbst replizierend, vebreitet sich und infiziert Dateien mit schädlichem Code |
 | Trojaner | Tarnung als vertrauenswürdige Software, Datensammlung |   
 | Spyware | prokolliert Eingaben des Nutzers |
 | Ransomware | blockiert Dateien und Daten eines Nutzers |
