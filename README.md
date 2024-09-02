@@ -1,9 +1,8 @@
-# cyber-security
+# Cyber-Security
+
+![Alternativtext](./cyber-sicherheit-zusammenhang.png)
 
 ## Arten von Cyber Security
-
-- Umfang verschiedener Bereiche
-- Beispiele
 
 1. ### Netzwerksicherheit
 
