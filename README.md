@@ -7,8 +7,8 @@
 --- 
 ## Bedrohungen
 
-### Warum ist Cybersecurity wichtig?
-- Schaden an verschiedenen Stellen
+### 1. Warum ist Cybersecurity wichtig?
+- Schaden an verschiedenen Stellen:
     - Unternehmen
     - Staaten
     - lokale Gemeinschaften
@@ -24,7 +24,9 @@
     - die mehr als 50.000 USD betrugen, stieg um **22,7%** im Vergleich zum Vorjahr
     - die mehr als 100.000 USD betrugen, stieg um **19,5%** im Vergleich zum Vorjahr           
 
-### Arten von Cyberbedrohungen
+### 2. Arten von Cyberbedrohungen
+
+#### Allgemein
 - Zunahme von Cloud Computing
     - Komplexität Netzwerkverwaltung und Risiko Fehlkonfiguation
     - Unzureichende Sicherung und Schwachstellen
@@ -56,7 +58,10 @@
 - Informationsbeschaffung, laufender Betrieb wird behindert
 - soll Angst verbreiten oder Panik auslösen
 
-### Malware und Methoden
+### 3. Malware und Methoden
+
+![Grafik mit vercshiedenen Malwares und Methoden](https://www.acatech.de/wp-content/uploads/2023/04/23_aaD_Cybersicherheit_N.png)
+> Quelle: [acatech.de](https://www.acatech.de/allgemein/acatech-am-dienstag-cybersicherheit/)
 
 | Malware _malicious software_ | Bechreibung |
 | - | - |
@@ -77,20 +82,22 @@
 | Kryptojacking | Zugriff auf Endgerät zur Nutzung von Rechenleistung, um Kryptowährung zu schürfen |
 | Kompromittierung von geschäftlichen E-Mails (BEC) | Vortäuschung (oft über E-Mail) eine vertraute Person zu sein: Chef, Mitarbeiter, Lieferanten oder Geschäftspartner |
 | Kompromittierung von E-Mail-Konten (EAC) | Ähnlich BEC, doch hier wird das Konto wirklich übernommen und gesteuert |
+| Social-Engineering-Angriffe _(allgemein)_ | Menschen beeinflussen, damit sie sensible, vertrauliche Informationen preisgeben, um Geld zu verdienen oder Zugang zu Daten zu erhalten |
 
-### Endbenutzer
+### 4. Endbenutzer
 - Einzelpersonen werden angegriffen
 - Durch Unwissenheit Malware oder andere Cyberbedrohungen auf Geräte laden
 - Besonders Nutzer mit vielen Zugriffsrechten gefährdet
+
+> Quellen:
+[ibm.com](https://www.ibm.com/de-de/topics/cybersecurity)
+[kasperky.de](https://www.kaspersky.de/resource-center/definitions/what-is-cyber-security)
+[proofpoint.com](https://www.proofpoint.com/de/threat-reference/cybersecurity-network-security)
+[sap.com](https://www.sap.com/swiss/products/financial-management/what-is-cybersecurity.html)
+[acatech.de](https://www.acatech.de/allgemein/acatech-am-dienstag-cybersicherheit/)
 
 ---
 ## Best Practices / Tools / Technologien
 - Tools/ Technologien
 - Anwender/ Nutzer
 
-
-
-Quellen:
-[ibm.com](https://www.ibm.com/de-de/topics/cybersecurity)
-[kasperky.de](https://www.kaspersky.de/resource-center/definitions/what-is-cyber-security)
-[proofpoint.com](https://www.proofpoint.com/de/threat-reference/cybersecurity-network-security)
