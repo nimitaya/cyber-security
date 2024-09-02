@@ -1,11 +1,17 @@
 # Cyber-Security
 
-![Alternativtext](./cyber-sicherheit-zusammenhang.png)
+## Was ist Cyber-Security
+
+- befasst sich mit allen IT-Sicherheitsmaßnahmen im gesamten Cyber-Raum
+- Cyber-Raum: alle mit dem globalen Internet verbundenen IT-Systeme und -Infrastrukturen
+- Ziel: Schutz vor Verlust von Vertraulichkeit, Authentifikation, Authentizität, Integrität, Verbindlichkeit, Verfügbarkeit und Anonymisierungs/Pseudonymisierung
+
+![Cyber-Sicherheit](./cyber-sicherheit-zusammenhang.png)
 [Cyber-Sicherheit, Norbert Pohlmann](https://norbert-pohlmann.com/glossar-cyber-sicherheit/cyber-sicherheit-2/)
 
 
 
-## Arten von Cyber Security
+## Bereiche der Cyber Security
 
 1. ### Netzwerksicherheit
 
@@ -23,7 +29,7 @@
    `Beispiel:` Ein Online-Shop überprüft sorgfältig alle Eingaben in Suchfelder, um sicherzustellen, dass niemand schädlichen Code einschleusen kann (z. B. durch SQL-Injection).
    `Wie:`
 
-   - Sichere Softwareentwicklung: Implementierung von Sicherheitspraktiken während des gesamten Softwareentwicklungsprozesses, um Schwachstellen zu minimieren (z. B. OWASP Top 10).
+   - Sichere Softwareentwicklung: Implementierung von Sicherheitspraktiken während des gesamten Softwareentwicklungsprozesses, um Schwachstellen zu minimieren (z. B. OWASP Top 10 (=Open Web Application Security Projekt)).
    - Penetrationstests: Simulierte Angriffe auf Anwendungen, um Schwachstellen zu identifizieren und zu beheben.
    - Code Reviews & Static Analysis Tools: Überprüfung von Quellcode auf potenzielle Sicherheitslücken.
 
