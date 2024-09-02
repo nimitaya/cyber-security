@@ -1,6 +1,9 @@
 # Cyber-Security
 
 ![Alternativtext](./cyber-sicherheit-zusammenhang.png)
+[Cyber-Sicherheit, Norbert Pohlmann](https://norbert-pohlmann.com/glossar-cyber-sicherheit/cyber-sicherheit-2/)
+
+
 
 ## Arten von Cyber Security
 
