@@ -109,8 +109,7 @@
 
     `Was ist das?` Schutz der gesamten Lieferkette, die an der Erstellung und Bereitstellung von Produkten und Dienstleistungen beteiligt ist, um sicherzustellen, dass keine bösartigen Elemente in den Prozess eingeführt werden.
     `Beispiel:` Ein Softwareunternehmen überprüft alle Bibliotheken von Drittanbietern, die in seiner Software verwendet werden, um sicherzustellen, dass keine davon kompromittiert ist.
-    `Wie:`
-
+   
 --- 
 ## Bedrohungen
 
